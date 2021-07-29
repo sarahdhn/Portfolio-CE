@@ -1,0 +1,821 @@
+# Translation of Plugins - Visual Portfolio, Photo Gallery &amp; Posts Grid - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Visual Portfolio, Photo Gallery &amp; Posts Grid - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-09 09:18:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Visual Portfolio, Photo Gallery &amp; Posts Grid - Stable (latest release)\n"
+
+#: classes/class-settings.php:567
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: classes/class-settings.php:307
+msgid "Image sizes used in portfolio layouts."
+msgstr "Tailles des images utilisées dans les mises en page de portfolio."
+
+#: classes/class-welcome-screen.php:114
+msgid "Layouts"
+msgstr "Mises en page"
+
+#: classes/class-admin.php:798 classes/class-admin.php:1745
+#: classes/class-admin.php:2025
+msgid "Hide"
+msgstr "Masquer"
+
+#: classes/3rd/plugins/class-elementor-widget.php:155
+#: classes/3rd/plugins/class-vc.php:71
+msgid "Select Layout"
+msgstr "Sélectionner une mise en page"
+
+#: classes/class-settings.php:265 classes/class-settings.php:312
+#: classes/class-settings.php:346
+msgid "Small"
+msgstr "Petite"
+
+#: classes/class-settings.php:253 classes/class-settings.php:319
+#: classes/class-settings.php:353
+msgid "Medium"
+msgstr "Moyenne"
+
+#: classes/class-settings.php:241 classes/class-settings.php:326
+#: classes/class-settings.php:360
+msgid "Large"
+msgstr "Grande"
+
+#: classes/class-settings.php:229 classes/class-settings.php:333
+msgid "Extra Large"
+msgstr "Très grande"
+
+#: classes/class-settings.php:341
+msgid "Image sizes used in popup gallery images."
+msgstr "Tailles des images utilisées dans les images de la fenêtre surgissante de galerie."
+
+#. translators: %s: regenerate thumbnails url.
+#: classes/class-settings.php:368
+msgid "After publishing your changes, new image sizes may not be shown until you <a href=\"%s\" target=\"_blank\">Regenerate Thumbnails</a>."
+msgstr "Après publication de vos modifications, les nouvelles tailles d’image peuvent ne pas être affichées avant que vous régénériez les miniatures avec l’extension <a href=\"%s\" target=\"_blank\">Regenerate Thumbnails</a>."
+
+#. translators: %1$s - escaped url.
+#: classes/class-admin.php:1253
+msgid "Build custom query according to WordPress Codex. See example here <a href=\"%1$s\">%1$s</a>."
+msgstr "Construire une requête personnalisée selon le Codex WordPress. Voir des exemples ici <a href=\"%1$s\">%1$s</a>."
+
+#: classes/class-admin.php:799
+msgid "Always Display"
+msgstr "Toujours afficher"
+
+#: classes/class-admin.php:2931
+msgid "Display Numbers"
+msgstr "Afficher les nombres"
+
+#: classes/class-admin.php:1992
+msgid "Display Title"
+msgstr "Afficher le titre"
+
+#: classes/class-admin.php:2098
+msgid "Display Excerpt"
+msgstr "Afficher l’extrait"
+
+#: classes/class-admin.php:2119
+msgid "Display Icon"
+msgstr "Afficher l’icône"
+
+#: classes/class-admin.php:635
+msgid "Display Bullets"
+msgstr "Afficher les puces"
+
+#: classes/class-admin.php:544
+msgid "Values with `vh` units will not be visible in preview."
+msgstr "Les valeurs avec des unités « vh » ne seront pas visibles dans la prévisualisation."
+
+#: classes/class-admin.php:794
+msgid "Display Read More Button"
+msgstr "Affiche le bouton Lire la suite"
+
+#: classes/class-admin.php:2000
+msgid "Display Categories"
+msgstr "Afficher les catégories"
+
+#: classes/class-admin.php:2021
+msgid "Display Date"
+msgstr "Afficher la date"
+
+#: classes/class-admin.php:2491
+msgid "Display Count"
+msgstr "Afficher le nombre"
+
+#: classes/class-admin.php:543
+msgid "300px, 80vh"
+msgstr "300px, 80vh"
+
+#: classes/class-admin.php:542
+msgid "Items Minimal Height"
+msgstr "Hauteur minimale des éléments"
+
+#: classes/class-admin.php:472
+msgid "Speed (in Seconds)"
+msgstr "Vitesse (en secondes)"
+
+#: classes/class-settings.php:547
+msgid "Display Slideshow"
+msgstr "Afficher le diaporama"
+
+#: classes/class-settings.php:534
+msgid "Display Download Button"
+msgstr "Afficher le bouton télécharger"
+
+#: classes/class-admin.php:658 classes/class-settings.php:483
+msgid "Display Thumbnails"
+msgstr "Afficher les miniatures"
+
+#: classes/class-settings.php:475
+msgid "Display Close Button"
+msgstr "Afficher le bouton fermer"
+
+#: classes/class-settings.php:469
+msgid "Display Share Button"
+msgstr "Afficher le bouton partager"
+
+#: classes/class-settings.php:463
+msgid "Display Fullscreen Button"
+msgstr "Afficher le bouton plein écran"
+
+#: classes/class-settings.php:457
+msgid "Display Zoom Button"
+msgstr "Afficher le bouton zoom"
+
+#: classes/class-admin.php:629 classes/class-admin.php:2916
+#: classes/class-settings.php:443
+msgid "Display Arrows"
+msgstr "Afficher les flèches"
+
+#: classes/class-assets.php:619
+msgid "Thumbnails"
+msgstr "Miniatures"
+
+#: classes/class-settings.php:376
+msgid "Vendor Script"
+msgstr "Scénario du vendeur"
+
+#: classes/class-assets.php:622
+msgid "Zoom"
+msgstr "Zoom"
+
+#: classes/class-assets.php:620
+msgid "Download"
+msgstr "Télécharger"
+
+#: classes/class-assets.php:618
+msgid "Full screen"
+msgstr "Plein écran"
+
+#: classes/class-assets.php:617
+msgid "Pause slideshow"
+msgstr "Mettre le diaporama en pause"
+
+#: classes/class-assets.php:616
+msgid "Start slideshow"
+msgstr "Démarrer le diaporama"
+
+#: classes/class-assets.php:614
+msgid "Previous"
+msgstr "Précédent"
+
+#: classes/class-assets.php:613
+msgid "Next"
+msgstr "Suivant"
+
+#: classes/class-assets.php:612
+msgid "Close"
+msgstr "Fermer"
+
+#: classes/class-assets.php:610
+msgid "Pin it"
+msgstr "L’épingler"
+
+#: classes/class-assets.php:608
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+#: classes/class-assets.php:606
+msgid "Previous (arrow left)"
+msgstr "Précédent (flèche gauche)"
+
+#: classes/class-assets.php:605
+msgid "Zoom in/out"
+msgstr "Zoomer/dézoomer"
+
+#: classes/class-assets.php:604
+msgid "Toggle fullscreen"
+msgstr "Ouvrir/fermer le plein écran"
+
+#: classes/class-assets.php:603 classes/class-assets.php:621
+msgid "Share"
+msgstr "Partager"
+
+#: classes/class-assets.php:602
+msgid "Close (Esc)"
+msgstr "Fermer (Échap)"
+
+#: classes/class-admin.php:481
+msgid "Autoplay (in Seconds)"
+msgstr "Lecture automatique (en secondes)"
+
+#: classes/class-settings.php:450
+msgid "Display Images Counter"
+msgstr "Afficher le compteur d’images"
+
+#: classes/class-assets.php:615
+msgid "The requested content cannot be loaded. <br /> Please try again later."
+msgstr "Le contenu demandé ne peut pas être chargé. <br /> Veuillez réessayer ultérieurement."
+
+#: classes/class-assets.php:609
+msgid "Tweet"
+msgstr "Tweeter"
+
+#: classes/class-assets.php:607
+msgid "Next (arrow right)"
+msgstr "Suivant (flèche droite)"
+
+#: classes/class-settings.php:379
+msgid "Fancybox"
+msgstr "Fancybox"
+
+#: classes/class-settings.php:380
+msgid "PhotoSwipe"
+msgstr "PhotoSwipe"
+
+#: classes/class-get-portfolio.php:1917
+msgid "Sort by title (Z-A)"
+msgstr "Trier par titre (Z-A)"
+
+#: classes/class-get-portfolio.php:1916
+msgid "Sort by title (A-Z)"
+msgstr "Trier par titre (A-Z)"
+
+#: classes/class-get-portfolio.php:1915
+msgid "Sort by date (oldest)"
+msgstr "Trier par date (depuis le plus ancien)"
+
+#: classes/class-get-portfolio.php:1914
+msgid "Sort by date (newest)"
+msgstr "Trier par date (depuis le plus récent)"
+
+#: classes/class-get-portfolio.php:1913
+msgid "Default sorting"
+msgstr "Tri par défaut"
+
+#: classes/class-admin.php:2352
+msgid "Sort"
+msgstr "Trier"
+
+#: classes/class-admin.php:2399 classes/class-admin.php:2528
+msgid "Dropdown"
+msgstr "Liste déroulante"
+
+#: classes/class-admin.php:727
+msgid "Thumbnails Per View"
+msgstr "Miniatures par vue"
+
+#: classes/class-admin.php:677
+msgid "Thumbnails Height"
+msgstr "Hauteur des miniatures"
+
+#: classes/class-admin.php:664
+msgid "Thumbnails Gap"
+msgstr "Écart entre les miniatures"
+
+#. translators: %s - taxonomy name.
+#: classes/class-custom-post-type.php:230
+msgid "Show All %s"
+msgstr "Afficher tous les %s"
+
+#: classes/class-custom-post-type.php:276
+msgid "Portfolio Author"
+msgstr "Auteur du portfolio"
+
+#: classes/class-custom-post-type.php:271
+msgid "Portfolio Manager"
+msgstr "Gestionnaire de portfolio"
+
+#: classes/class-admin.php:1654
+msgid "Uploaded"
+msgstr "Téléversé"
+
+#: classes/class-admin.php:618
+msgid "Free Scroll Sticky"
+msgstr "Défilement épinglé libre"
+
+#: classes/class-admin.php:490
+msgid "Pause on Mouse Over"
+msgstr "Mettre en pause au survol de la souris"
+
+#: classes/class-admin.php:403
+msgid "Grid"
+msgstr "Grille"
+
+#: classes/class-admin.php:652
+msgid "Mousewheel Control"
+msgstr "Contrôle de la roue de la souris"
+
+#: classes/class-admin.php:2209
+msgid "Target"
+msgstr "Cible"
+
+#: classes/class-admin.php:2214
+msgid "New Tab (_blank)"
+msgstr "Nouvel onglet (_blank)"
+
+#: classes/class-admin.php:2215
+msgid "Top Frame (_top)"
+msgstr "Fenêtre courante (_top)"
+
+#: classes/class-admin.php:1402
+msgid "Menu Order"
+msgstr "Ordre du menu"
+
+#: classes/class-custom-post-type.php:622
+#: classes/class-custom-post-type.php:623 classes/class-welcome-screen.php:150
+msgid "Documentation"
+msgstr "Documentation"
+
+#: classes/class-admin.php:1624 classes/class-admin.php:1641
+#: classes/class-admin.php:2254 classes/class-admin.php:2276
+msgid "Image Description"
+msgstr "Description de l’image"
+
+#: classes/class-settings.php:194
+msgid "Filter Taxonomies"
+msgstr "Filtrer les taxonomies"
+
+#: classes/class-admin.php:808
+msgid "Read More Button Label"
+msgstr "Libellé du bouton « Lire la suite »"
+
+#: classes/class-admin.php:1619 classes/class-admin.php:1636
+#: classes/class-admin.php:2250 classes/class-admin.php:2272
+msgid "None"
+msgstr "Aucune"
+
+#: classes/class-settings.php:195
+msgid "You can show custom taxonomies in the portfolio Filter. Enter some taxonomies by \",\" separating values. Example: \"product_cat,product_tag\""
+msgstr "Vous pouvez afficher les taxonomies personnalisées dans le filtre du portfolio. Saisissez des taxonomies en séparant les valeurs par « , ». Exemple : « produit_cat,produit_tag »"
+
+#: classes/class-admin.php:1622 classes/class-admin.php:1639
+#: classes/class-admin.php:2252 classes/class-admin.php:2274
+msgid "Image Caption"
+msgstr "Légende de l’image"
+
+#: classes/class-admin.php:1623 classes/class-admin.php:1640
+#: classes/class-admin.php:2253 classes/class-admin.php:2275
+msgid "Image Alt"
+msgstr "Texte alternatif de l’image"
+
+#: classes/class-admin.php:1621 classes/class-admin.php:1638
+#: classes/class-admin.php:2251 classes/class-admin.php:2273
+msgid "Image Title"
+msgstr "Titre de l’image"
+
+#: classes/class-admin.php:2842 classes/class-admin.php:2843
+#: classes/class-admin.php:2899 classes/class-admin.php:2900
+msgid "End of the list text"
+msgstr "Fin du texte de la liste"
+
+#: classes/class-admin.php:2804 classes/class-admin.php:2805
+#: classes/class-admin.php:2861 classes/class-admin.php:2862
+msgid "Load more button label"
+msgstr "Libellé du bouton charger plus"
+
+#: classes/class-admin.php:2823 classes/class-admin.php:2824
+#: classes/class-admin.php:2880 classes/class-admin.php:2881
+msgid "Loading more button label"
+msgstr "Libellé du bouton en cours de chargement"
+
+#: classes/class-admin.php:2772 classes/class-admin.php:2787
+msgid "Texts"
+msgstr "Textes"
+
+#: classes/class-admin.php:2500
+msgid "All Button Text"
+msgstr "Texte du bouton tous"
+
+#: classes/class-admin.php:606 classes/class-settings.php:421
+msgid "Loop"
+msgstr "Boucle"
+
+#: classes/class-admin.php:562 classes/class-admin.php:732
+#: classes/class-admin.php:1620 classes/class-admin.php:1637
+#: gutenberg/components/aspect-ratio/index.js:23
+msgid "Custom"
+msgstr "Personnalisée"
+
+#: classes/class-admin.php:509 classes/class-admin.php:683
+msgid "Dynamic (%)"
+msgstr "Dynamique (%)"
+
+#: classes/class-admin.php:508 classes/class-admin.php:682
+msgid "Static (px)"
+msgstr "Statique (px)"
+
+#: classes/class-admin.php:507 classes/class-admin.php:561
+#: classes/class-admin.php:681 classes/class-admin.php:731
+#: gutenberg/components/aspect-ratio/index.js:18
+msgid "Auto"
+msgstr "Auto"
+
+#: classes/class-admin.php:466
+msgid "Coverflow"
+msgstr "Couverture du flux"
+
+#: classes/class-admin.php:465
+msgid "Slide"
+msgstr "Diapositive"
+
+#: classes/class-admin.php:461
+msgid "Effect"
+msgstr "Effet"
+
+#: classes/class-admin.php:641
+msgid "Dynamic Bullets"
+msgstr "Puces dynamiques"
+
+#: classes/class-admin.php:612
+msgid "Free Scroll"
+msgstr "Défilement libre"
+
+#: classes/class-admin.php:593
+msgid "Centered Slides"
+msgstr "Diapositives centrées"
+
+#: classes/class-admin.php:557
+msgid "Slides Per View"
+msgstr "Diapositives par vue"
+
+#: classes/class-admin.php:503
+msgid "Items Height"
+msgstr "Hauteur des éléments"
+
+#: classes/class-admin.php:2757
+msgid "Note: you will see the \"Load More\" pagination in the preview. \"Infinite\" pagination will be visible on the site."
+msgstr "Remarque : vous verrez la pagination « Charger plus » dans la prévisualisation. La pagination « infinie » sera visible sur le site."
+
+#: classes/class-admin.php:1583 classes/class-admin.php:2192
+msgid "URL"
+msgstr "URL"
+
+#. Author of the plugin
+msgid "nK"
+msgstr "nK"
+
+#. Author URI of the plugin
+msgid "https://nkdev.info"
+msgstr "https://nkdev.info"
+
+#: classes/class-custom-post-meta.php:179
+msgid "https://"
+msgstr "https://"
+
+#: classes/class-admin.php:1566 classes/class-custom-post-meta.php:140
+#: gutenberg/custom-post-meta/video.js:141
+msgid "Video"
+msgstr "Vidéo"
+
+#: classes/3rd/plugins/class-vc.php:86
+msgid "CSS"
+msgstr "CSS"
+
+#: classes/class-admin.php:1572 classes/class-admin.php:1585
+msgid "https://..."
+msgstr "https://..."
+
+#: class-visual-portfolio.php:95 classes/class-welcome-screen.php:79
+#: classes/class-welcome-screen.php:82
+msgid "Visual Portfolio"
+msgstr "Visual Portfolio"
+
+#: classes/class-admin.php:1556 classes/class-custom-post-type.php:125
+msgid "Categories"
+msgstr "Catégories"
+
+#: classes/class-custom-post-type.php:145
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: classes/class-custom-post-type.php:448
+msgid "Shortcode"
+msgstr "Code court"
+
+#: classes/class-settings.php:122 classes/class-settings.php:123
+#: classes/class-settings.php:647
+#: gutenberg/components/elements-selector/index.js:99
+msgid "Settings"
+msgstr "Réglages"
+
+#: classes/class-admin.php:1137
+msgid "Content Source"
+msgstr "Source du contenu"
+
+#: classes/class-admin.php:1217 classes/class-settings.php:144
+msgid "Images"
+msgstr "Images"
+
+#: classes/class-admin.php:1251 classes/class-admin.php:3066
+msgid "Custom Query"
+msgstr "Requête personnalisée"
+
+#: classes/class-admin.php:1571 gutenberg/custom-post-meta/video.js:161
+msgid "Video URL"
+msgstr "URL de la vidéo"
+
+#: classes/class-admin.php:1565
+msgid "Standard"
+msgstr "Standard"
+
+#: classes/class-admin.php:1562
+msgid "Format"
+msgstr "Format"
+
+#: classes/class-admin.php:1545
+msgid "Description"
+msgstr "Description"
+
+#: classes/class-admin.php:2322
+msgid "Bottom"
+msgstr "Bas"
+
+#: classes/class-admin.php:2312
+msgid "Top"
+msgstr "Haut"
+
+#: classes/3rd/plugins/class-vc.php:79
+msgid "Custom Classes"
+msgstr "Classes personnalisées"
+
+#: classes/class-admin.php:1181
+#: gutenberg/components/controls-render/index.js:330
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: classes/class-admin.php:1397
+#: templates/items-list/item-parts/meta-date.php:26
+msgid "Date"
+msgstr "Date"
+
+#: classes/class-admin.php:1653 classes/class-admin.php:2026
+#: classes/class-admin.php:2213
+msgid "Default"
+msgstr "Par défaut"
+
+#: classes/class-admin.php:1399
+msgid "ID"
+msgstr "ID"
+
+#: vendors/class-settings-api.php:417
+msgid "Choose Image"
+msgstr "Choisir l’image"
+
+#: vendors/class-settings-api.php:398
+msgid "Choose File"
+msgstr "Choisir le fichier"
+
+#: classes/class-admin.php:2841 classes/class-admin.php:2898
+msgid "You’ve reached the end of the list"
+msgstr "Vous avez atteint la fin de la liste"
+
+#: classes/class-admin.php:2822 classes/class-admin.php:2879
+msgid "Loading More..."
+msgstr "En cours de chargement…"
+
+#: classes/3rd/plugins/class-vc.php:88
+msgid "Design Options"
+msgstr "Options de conception"
+
+#: classes/class-settings.php:444
+msgid "Arrows to navigate between images."
+msgstr "Flèches pour naviguer entre les images."
+
+#: classes/class-settings.php:206
+msgid "Choose image"
+msgstr "Choisir l’image"
+
+#: classes/class-settings.php:188
+msgid "Portfolio Slug"
+msgstr "Slug du portfolio"
+
+#. translators: %s - published in human format.
+#: classes/class-get-portfolio.php:2043
+msgid "%s ago"
+msgstr "Il y a %s"
+
+#: classes/class-admin.php:2502
+msgid "All"
+msgstr "Tous"
+
+#: classes/class-admin.php:1287
+msgid "Specific Posts"
+msgstr "Articles spécifiques"
+
+#: classes/class-admin.php:2369
+msgid "Pagination"
+msgstr "Pagination"
+
+#: classes/class-admin.php:1171
+msgid "Items Click Action"
+msgstr "Action au clic sur l’élément"
+
+#: classes/class-admin.php:1166
+msgid "Items Style"
+msgstr "Style de l’élément"
+
+#: classes/class-admin.php:1161
+msgid "Layout"
+msgstr "Mise en page"
+
+#: classes/class-admin.php:1455 classes/class-admin.php:1668
+msgid "ASC"
+msgstr "Croissant"
+
+#: classes/class-admin.php:1456 classes/class-admin.php:1669
+msgid "DESC"
+msgstr "Décroissant"
+
+#: classes/class-admin.php:1451 classes/class-admin.php:1664
+msgid "Order Direction"
+msgstr "Direction du tri"
+
+#: classes/class-admin.php:1404 classes/class-admin.php:1656
+msgid "Random"
+msgstr "Aléatoire"
+
+#: classes/class-admin.php:1398 classes/class-admin.php:1534
+#: classes/class-admin.php:1655
+msgid "Title"
+msgstr "Titre"
+
+#: classes/class-admin.php:1393 classes/class-admin.php:1649
+msgid "Order by"
+msgstr "Trier par"
+
+#: classes/class-admin.php:1368
+msgid "AND"
+msgstr "ET"
+
+#: classes/class-admin.php:1367
+msgid "OR"
+msgstr "OU"
+
+#: classes/class-admin.php:1363
+msgid "Taxonomies Relation"
+msgstr "Relation entre les taxonomies"
+
+#: classes/class-admin.php:1334
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: classes/class-admin.php:1305
+msgid "Excluded Posts"
+msgstr "Publications exclues"
+
+#: classes/class-admin.php:2747
+msgid "Infinite"
+msgstr "Infini"
+
+#: classes/class-admin.php:2742 classes/class-admin.php:2803
+#: classes/class-admin.php:2860
+msgid "Load More"
+msgstr "Charger plus"
+
+#: classes/class-admin.php:2187 classes/class-settings.php:297
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: classes/class-admin.php:2127
+msgid "Caption Align"
+msgstr "Alignement de la légende"
+
+#: classes/class-admin.php:2104
+msgid "Excerpt Words Count"
+msgstr "Nombre de mots de l’extrait"
+
+#: classes/class-admin.php:2027
+msgid "Human Format"
+msgstr "Format humain"
+
+#: classes/class-admin.php:2006
+msgid "Categories Count"
+msgstr "Compteur de catégories"
+
+#: classes/class-admin.php:467 classes/class-admin.php:901
+msgid "Fade"
+msgstr "Fondu"
+
+#: classes/class-admin.php:844 classes/class-admin.php:942
+#: classes/class-admin.php:993
+msgid "Overlay Text Color"
+msgstr "Couleur du texte de superposition"
+
+#: classes/class-admin.php:832 classes/class-admin.php:930
+#: classes/class-admin.php:981
+msgid "Overlay Background Color"
+msgstr "Couleur d’arrière-plan de la superposition"
+
+#: classes/class-rest.php:106
+msgid "Layouts not found."
+msgstr "Mises en page non trouvées."
+
+#: classes/3rd/plugins/class-elementor-widget.php:147
+#: classes/class-settings.php:139
+msgid "General"
+msgstr "Général"
+
+#: classes/class-admin.php:1786
+msgid "Stretch"
+msgstr "Étirer"
+
+#: classes/class-admin.php:1714
+msgid "Items Per Page"
+msgstr "﻿Éléments par page"
+
+#: classes/class-admin.php:1858
+msgid "Gap"
+msgstr "Écart"
+
+#: classes/class-admin.php:431
+msgid "Justified"
+msgstr "Justifié"
+
+#: classes/class-admin.php:380 classes/class-admin.php:408
+msgid "Columns"
+msgstr "Colonnes"
+
+#: classes/class-admin.php:375
+msgid "Masonry"
+msgstr "Masonry"
+
+#: classes/class-admin.php:2730
+msgid "Type"
+msgstr "Type"
+
+#: classes/class-admin.php:252 gutenberg/components/tiles-selector/index.js:107
+msgid "Tiles"
+msgstr "Tuiles"
+
+#: classes/class-custom-post-type.php:361
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: classes/class-custom-post-type.php:143
+msgid "Portfolio Tags"
+msgstr "Étiquettes du portfolio"
+
+#: classes/class-custom-post-type.php:83 classes/class-custom-post-type.php:177
+msgid "Not found in Trash"
+msgstr "Non trouvé dans la corbeille"
+
+#: classes/class-custom-post-type.php:82 classes/class-custom-post-type.php:176
+msgid "Not Found"
+msgstr "Non trouvé"
+
+#: classes/class-custom-post-type.php:81
+msgid "Search Portfolio Item"
+msgstr "Rechercher un élément de portfolio"
+
+#: classes/class-custom-post-type.php:78 classes/class-custom-post-type.php:172
+msgid "Add New"
+msgstr "Ajouter"
+
+#: classes/class-custom-post-type.php:77
+msgid "Add New Portfolio Item"
+msgstr "Ajouter un élément de portfolio"
+
+#: classes/class-custom-post-type.php:75
+msgid "Portfolio Items"
+msgstr "Éléments du portfolio"
+
+#: classes/class-custom-post-type.php:72
+msgctxt "Post Type Singular Name"
+msgid "Portfolio Item"
+msgstr "Élément du portfolio"
+
+#: classes/class-custom-post-type.php:71
+msgctxt "Post Type General Name"
+msgid "Portfolio Items"
+msgstr "Éléments du portfolio"
+
+#: classes/class-settings.php:451
+msgid "On the top left corner will be showed images counter."
+msgstr "Un compteur d’images s’affichera dans le coin supérieur gauche."
+
+#: classes/class-admin.php:1584
+msgid "By default used full image url, you can use custom one"
+msgstr "Par défaut, l’URL complète de l’image est utilisée, vous pouvez en utiliser une personnalisée"
+
+#: classes/class-admin.php:2346
+msgid "Filter"
+msgstr "Filtre"
